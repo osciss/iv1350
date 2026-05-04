@@ -1,0 +1,4 @@
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\test\se\kth\iv1350\repairelectricbike\controller\ControllerTest.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\test\se\kth\iv1350\repairelectricbike\integration\CustomerRegistryTest.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\test\se\kth\iv1350\repairelectricbike\integration\RepairOrderRegistryTest.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\test\se\kth\iv1350\repairelectricbike\model\RepairOrderTest.java

@@ -1,0 +1,14 @@
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\src\se\kth\iv1350\repairelectricbike\controller\Controller.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\src\se\kth\iv1350\repairelectricbike\integration\CustomerRegistry.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\src\se\kth\iv1350\repairelectricbike\integration\Printer.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\src\se\kth\iv1350\repairelectricbike\integration\RegistryCreator.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\src\se\kth\iv1350\repairelectricbike\integration\RepairOrderRegistry.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\src\se\kth\iv1350\repairelectricbike\model\Bike.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\src\se\kth\iv1350\repairelectricbike\model\Customer.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\src\se\kth\iv1350\repairelectricbike\model\DiagnosticReport.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\src\se\kth\iv1350\repairelectricbike\model\RepairOrder.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\src\se\kth\iv1350\repairelectricbike\model\RepairTask.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\src\se\kth\iv1350\repairelectricbike\model\dto\CustomerDTO.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\src\se\kth\iv1350\repairelectricbike\model\dto\RepairOrderDTO.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\src\se\kth\iv1350\repairelectricbike\startup\Main.java
+C:\Users\oscar\IV13501\IV1350_sem\IV1350_sem3\src\se\kth\iv1350\repairelectricbike\view\View.java
