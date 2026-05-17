@@ -1,0 +1,280 @@
+[2026-05-15T21:05:54.110251] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-15
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: []
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-15T21:05:54.119277900] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-15
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-15T21:05:54.119277900] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-15
+Problem: Battery dead
+State: ACCEPTED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-15T21:50:36.945064] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-15
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: []
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-15T21:50:36.954774500] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-15
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-15T21:50:36.955770700] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-15
+Problem: Battery dead
+State: ACCEPTED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T11:09:51.925822900] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: []
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T11:09:51.946024600] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T11:09:51.947024900] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: ACCEPTED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T12:24:49.876157300] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: []
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T12:24:49.897329600] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T12:24:49.898365600] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: ACCEPTED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:03:02.044494400] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: []
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:03:02.055129300] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:03:02.056508300] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: ACCEPTED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:03:37.792437] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: []
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:03:37.803826100] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:03:37.803826100] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: ACCEPTED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:05:22.859088100] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: []
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:05:22.868350300] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:05:22.870376300] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: ACCEPTED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:06:30.647229300] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: []
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:06:30.660805900] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:06:30.661807600] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: ACCEPTED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:07:50.727433] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: []
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:07:50.739505500] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:07:50.739505500] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: ACCEPTED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:08:55.369145] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: []
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:08:55.379365100] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:08:55.385696300] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: ACCEPTED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:14:00.504403300] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: []
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:14:00.515220100] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:14:00.516444700] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW, Repair Task - Description: Test ride bike, cost: 250.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:14:00.516444700] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: NEWLY CREATED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW, Repair Task - Description: Test ride bike, cost: 250.0, state: NEW, Repair Task - Description: Clean bike, cost: 50.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
+[2026-05-16T14:14:00.521971300] Repair order updated:
+Repair Order ID: 1
+Date: 2026-05-16
+Problem: Battery dead
+State: ACCEPTED
+Repair Tasks: [Repair Task - Description: Replace battery, cost: 100.0, state: NEW, Repair Task - Description: Test ride bike, cost: 250.0, state: NEW, Repair Task - Description: Clean bike, cost: 50.0, state: NEW]
+Diagnostic Results: [ID: 1 - Replace dead battery]
+
